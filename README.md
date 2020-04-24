@@ -1,5 +1,5 @@
 # spaceXwatch
-WebGL app using MERN stack and Three.js. We take your lat and long and convert it to a cartesian coordinate(x, y, z) on a 3D rednered earth. 
+WebGL app using MERN stack and Three.js. We take your lat and long and convert it to a cartesian coordinate(x, y, z) on a 3D rendered earth. 
 For demo we are using an API from SpaceX to plot each place a rocket as taken off from. 
 
 ## Notable technolgies used:
